@@ -33,3 +33,12 @@ git clone https://github.com/kavyagatla/travel-diary-app.git
 
 2.Navigate to the project folder:
 cd travel-diary-app
+
+3.Install dependencies:
+npm install
+
+4.Start the server:
+npm start
+
+5.Open your browser:
+http://localhost:3000
