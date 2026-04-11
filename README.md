@@ -1,54 +1,35 @@
-# travel-diary-app
-This project is a full-stack Travel Diary web application developed using Node.js, Express.js, and MongoDB, enabling users to securely store, manage, and access their travel experiences through a structured web interface.
-# 🌍 Travel Diary App
+🌍 Travel Diary App
 
-A full-stack web application that allows users to document, manage, and revisit their travel experiences. Users can add travel entries with descriptions, dates, and locations, creating a personal digital travel journal.
+A full-stack web application that allows users to record, organize, and revisit their travel experiences digitally. Users can create diary entries with locations, images, and personal notes, making it easy to preserve and share travel memories.
 
----
+✨ Features
+📝 Create, edit, and delete travel diary entries
+📍 Add location details for each trip
+📸 Upload and manage travel photos
+📅 Track travel dates and experiences
+🔐 User authentication (login/signup)
+📖 View all travel entries in an organized format
 
-## 🚀 Features
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB
 
-- User-friendly travel diary interface
-- Add, view, update, and delete travel entries
-- Backend REST API using Node.js & Express
-- MongoDB database for data persistence
-- Secure and scalable project structure
+📂 Folder Structure
+travel-diary-app/
+│── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│── frontend/
+│   ├── public/
+│   ├── views/
+│── package.json
+│── server.js
 
----
+⚙️ Installation & Setup
+1.Clone the repository:
+git clone https://github.com/kavyagatla/travel-diary-app.git
 
-## 🛠️ Tech Stack
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-
----
-
-## 📂 Project Structure
-
-TRAVEL_DIARY_APP/
-│
-├── backend/
-│ ├── node_modules/
-│ ├── models/
-│ ├── routes/
-│ ├── controllers/
-│ ├── config/
-│ ├── server.js
-│ ├── package.json
-│ └── package-lock.json
-│
-├── frontend/
-│ ├── index.html
-│ ├── styles/
-│ ├── scripts/
-│ └── assets/
-│
-└── README.md
+2.Navigate to the project folder:
+cd travel-diary-app
