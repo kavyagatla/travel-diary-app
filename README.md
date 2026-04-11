@@ -42,3 +42,13 @@ npm start
 
 5.Open your browser:
 http://localhost:3000
+
+🎯 Objective
+
+The goal of this project is to provide a simple and user-friendly platform for users to document their travel journeys, including locations, experiences, and memories in one place. Similar applications help users record trips, photos, and experiences in a structured way for easy recall and sharing.
+
+🔮 Future Enhancements
+🗺️ Map integration for tracking travel routes
+🌐 Social sharing features
+❤️ Like and comment system
+📊 Travel analytics dashboard
